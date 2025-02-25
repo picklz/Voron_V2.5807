@@ -1,0 +1,209 @@
+filename,type,status,start_time,estimated_time,print_duration,filament_used,slicer
+- ASA - 1h12m.gcode,job,completed,"Feb 24, 2025 5:22 PM",4308,4947,5077.583,OrcaSlicer 2.2.0
+- ASA - 2h39m.gcode,job,completed,"Feb 22, 2025 7:42 PM",9552,10569,30775.467,OrcaSlicer 2.2.0
+- ASA - 53m13s.gcode,job,completed,"Feb 22, 2025 6:08 PM",3193,3838,10295.962,OrcaSlicer 2.2.0
+- PETG - 11m55s.gcode,job,completed,"Feb 22, 2025 3:57 PM",715,1057,571.523,OrcaSlicer 2.2.0
+- PETG - 15m53s.gcode,job,completed,"Feb 22, 2025 3:25 PM",953,1191,750.136,OrcaSlicer 2.2.0
+- PETG - 12m26s.gcode,job,completed,"Feb 22, 2025 2:50 PM",746,883,702.327,OrcaSlicer 2.2.0
+- ABS - 11m59s.gcode,job,completed,"Feb 21, 2025 10:54 AM",719,828,683.829,OrcaSlicer 2.2.0
+- ABS - 1h9m.gcode,job,completed,"Feb 21, 2025 9:21 AM",4154,4277,7116.329,OrcaSlicer 2.2.0
+GF_Refined_5x3 - PLA - 2h37m.gcode,job,completed,"Feb 20, 2025 6:46 PM",9447,10442,15546.978,OrcaSlicer 2.2.0
+- PLA - 3h24m.gcode,job,completed,"Feb 20, 2025 2:11 PM",12224,13453,20113.807,OrcaSlicer 2.2.0
+- PLA - 3h24m.gcode,job,cancelled,"Feb 20, 2025 1:31 PM",12224,724,811.453,OrcaSlicer 2.2.0
+- PLA - 5h50m.gcode,job,cancelled,"Feb 20, 2025 1:15 PM",21025,173,245.578,OrcaSlicer 2.2.0
+- PLA - 5h50m.gcode,job,cancelled,"Feb 20, 2025 12:50 PM",21025,326,493.814,OrcaSlicer 2.2.0
+- PLA - 5h50m.gcode,job,cancelled,"Feb 20, 2025 12:39 PM",21025,93,186.072,OrcaSlicer 2.2.0
+- PLA - 4m52s.gcode,job,completed,"Feb 20, 2025 12:23 PM",292,300,687.558,OrcaSlicer 2.2.0
+- ABS - 2h48m.gcode,job,completed,"Feb 20, 2025 8:46 AM",10073,10983,21132.851,OrcaSlicer 2.2.0
+ABS - 3h24m.gcode,job,completed,"Feb 18, 2025 1:58 PM",12233,13901,31629.479,OrcaSlicer 2.2.0
+ABS - 3h24m.gcode,job,cancelled,"Feb 18, 2025 1:40 PM",12233,88,135.862,OrcaSlicer 2.2.0
+Blob_Base- ABS - 49m4s.gcode,job,completed,"Feb 18, 2025 11:40 AM",2944,3400,6550.517,OrcaSlicer 2.2.0
+Blob2 - ABS - 2h13m.gcode,job,completed,"Feb 18, 2025 9:46 AM",7963,5546,19425.098,OrcaSlicer 2.2.0
+- ASA - 12m32s.gcode,job,completed,"Feb 17, 2025 8:33 PM",752,792,938.145,OrcaSlicer 2.2.0
+- ASA - 12m32s.gcode,job,cancelled,"Feb 17, 2025 8:18 PM",752,134,158.891,OrcaSlicer 2.2.0
+- ASA - 12m30s.gcode,job,klippy_shutdown,"Feb 17, 2025 8:09 PM",750,0,0,OrcaSlicer 2.2.0
+1stLayer_OrcaSlicer - ASA - 2m54s.gcode,job,completed,"Feb 17, 2025 3:37 PM",174,183,406.805,OrcaSlicer 2.2.0
+[a]_logo_inlay-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 16, 2025 7:08 PM",989,961,915.83,SuperSlicer 2.5.59.13
+tray_inlay-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 16, 2025 9:36 AM",30453,29408,44348.365,SuperSlicer 2.5.59.13
+turtle_leg_300_x4-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 15, 2025 5:22 PM",46586,45598,52921.92,SuperSlicer 2.5.59.13
+turtle_leg_300_x4-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,cancelled,"Feb 15, 2025 5:05 PM",46586,319,277.731,SuperSlicer 2.5.59.13
+turtle_leg_300_x4-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,error,"Feb 15, 2025 4:56 PM",46586,0,0,SuperSlicer 2.5.59.13
+[a]_cutting_arm_clockwork2-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 15, 2025 1:52 PM",3343,3187,2852.016,SuperSlicer 2.5.59.13
+corner_printed_x4_new-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 15, 2025 9:51 AM",12498,12307,15095.047,SuperSlicer 2.5.59.13
+corner_printed_x4_new-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 14, 2025 6:45 PM",3978,3927,4548.044,SuperSlicer 2.5.59.13
+dragon_hf_front-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 14, 2025 2:56 PM",12756,12529,14218.988,SuperSlicer 2.5.59.13
+Hex_Side_1pc_Mesh_x2-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 14, 2025 10:02 AM",14909,14839,15326.22,SuperSlicer 2.5.59.13
+Tray_Faster_.04-StandardPrinting_ASA.gcode,job,completed,"Feb 10, 2025 8:16 AM",22553,21546,42813.187,SuperSlicer 2.5.59.13
+Tray_wBrim(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 9, 2025 4:42 PM",23844,22486,42813.193,SuperSlicer 2.5.59.13
+Tray_Experiment(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 9, 2025 9:18 AM",23588,23002,42673.741,SuperSlicer 2.5.59.13
+TN-plus_Corners(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 8, 2025 2:57 PM",20943,21146,26931.773,SuperSlicer 2.5.59.13
+ExtruderBits_(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 8, 2025 9:42 AM",16652,16142,21850.051,SuperSlicer 2.5.59.13
+SideSkirt(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 7, 2025 9:04 PM",15023,15061,15478.352,SuperSlicer 2.5.59.13
+Hub_Skirt(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 7, 2025 3:12 PM",16624,17103,28537.428,SuperSlicer 2.5.59.13
+2-7-AM (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 7, 2025 9:59 AM",18702,17803,25170.497,SuperSlicer 2.5.59.13
+2-7-AM (0.4mm)-StandardPrinting_ASA.gcode,job,klippy_shutdown,"Feb 7, 2025 9:50 AM",18702,0,0,SuperSlicer 2.5.59.13
+ExtruderParts(0.4mm)-StandardPrinting_ASA.gcode,job,cancelled,"Feb 7, 2025 8:00 AM",37379,3272,8098.624,SuperSlicer 2.5.59.13
+2-6-PM(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 6, 2025 5:27 PM",28237,27715,30923.401,SuperSlicer 2.5.59.13
+FrameLR_GaearboxCover_idlerThread-(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 6, 2025 8:21 AM",34032,31309,36717.088,SuperSlicer 2.5.59.13
+BT-Tools-(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 5, 2025 7:43 PM",9743,9520,13865.905,SuperSlicer 2.5.59.13
+BoxParts_manyAccent(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 5, 2025 12:05 PM",26904,25351,30456.191,SuperSlicer 2.5.59.13
+Wheel_Drive_and_Wheels_x4(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 5, 2025 7:53 AM",13498,13555,21712.343,SuperSlicer 2.5.59.13
+[a]_lightbox_x4-A_wheelDrive_x4-(0.4mm)-StandardPrinting_ABS.gcode,job,completed,"Feb 4, 2025 5:09 PM",12357,11925,12875.482,SuperSlicer 2.5.59.13
+BT_[a]_wheel_x4(0.4mm)-StandardPrinting_ABS.gcode,job,completed,"Feb 4, 2025 1:34 PM",10095,10727,17784.186,SuperSlicer 2.5.59.13
+[a]_wheel_x8-(0.4mm)-StandardPrinting_ABS.gcode,job,cancelled,"Feb 4, 2025 12:10 PM",20170,1571,2519.822,SuperSlicer 2.5.59.13
+bearingspacer_led-retainer_feeder(0.4mm)-StandardPrinting_ABS.gcode,job,completed,"Feb 4, 2025 9:55 AM",2026,2332,1583.789,SuperSlicer 2.5.59.13
+bearingspacer_led-retainer_feeder(0.4mm)-StandardPrinting_ABS.gcode,job,error,"Feb 4, 2025 9:40 AM",2026,0,0,SuperSlicer 2.5.59.13
+beefy_depressor-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 3, 2025 6:46 PM",5862,6334,6289.392,SuperSlicer 2.5.59.13
+Latch_reinforced-Voron_PIF.ini (0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 3, 2025 3:20 PM",10033,9489,10395.186,SuperSlicer 2.5.59.13
+Main_Body_ECAS_EBB_D2Fx2_New_Motor_Plate-(0.4mm)-StandardPrinting_ASA.gcode,job,completed,"Feb 3, 2025 11:11 AM",7522,7701,7661.916,SuperSlicer 2.5.59.13
+Box_Turtle_Calibration_Main-ASA.gcode,job,completed,"Feb 2, 2025 6:36 PM",4680,5121,8243.126,SuperSlicer 2.5.59.13
+BoxTurtle_Calibration_(A)-ASA.gcode,job,completed,"Feb 2, 2025 4:21 PM",3232,3920,3635.098,SuperSlicer 2.5.59.13
+Dragon_High_Poly_scale80).gcode,job,completed,"Jan 30, 2025 1:59 PM",15567,15230,20148.638,SuperSlicer 2.5.59.13
+Dragon_High_Poly_scale80).gcode,job,completed,"Jan 29, 2025 4:34 PM",15567,15407,20143.638,SuperSlicer 2.5.59.13
+EGP_Bag_Mount-Body (ASA - KVP).gcode,job,completed,"Aug 12, 2024 7:30 PM",3184,3515,10073.063,SuperSlicer 2.4
+EGO String Trimmer holder v4-Ellis_PIF_Standard_24mm3.ini (0.6mm))-Ellis_PIF_V2-Standard_24mm3.ini (ASA - KVP).gcode,job,completed,"Aug 11, 2024 12:51 PM",19893,21724,63754.732,SuperSlicer 2.4
+EGO_Leafblower_650_wall_mount(ASA - KVP).gcode,job,completed,"Aug 11, 2024 9:16 AM",9634,10725,24612.126,SuperSlicer 2.4
+PowerStripRigMount.gcode,job,completed,"Jun 28, 2024 10:18 PM",6639,6837,17666.57,SuperSlicer 2.4
+KelseyDellDockB.gcode,job,completed,"Jun 28, 2024 7:00 PM",3498,3495,8843.071,SuperSlicer 2.4
+KelseyDellDeckA.gcode,job,completed,"Jun 28, 2024 5:38 PM",3045,3255,7442.407,SuperSlicer 2.4
+Hinge-R-CCD-V3-Ellis_PIF_Standard_24mm3.ini (0.6mm))-Ellis_PIF_V2-Standard_24mm3.ini (ASA - KVP).gcode,job,completed,"Mar 14, 2024 9:30 AM",5497,9077,7061.263,SuperSlicer 2.4
+Hinge-R-sleeve-2X-V2-Ellis_PIF_Standard_ (ASA - KVP).gcode,job,cancelled,"Mar 14, 2024 8:13 AM",5440,3255,2912.567,SuperSlicer 2.4
+Hinge-R-sleeve-and-solid-2X-(ASA - KVP).gcode,job,cancelled,"Mar 13, 2024 7:54 PM",4948,3407,3201.089,SuperSlicer 2.4
+Latch-Ellis_V2.gcode,job,completed,"Mar 13, 2024 1:56 PM",4594,10929,3320.263,SuperSlicer 2.4
+CCD-Handle-Ellis_PIF_Standard_24mm3.ini (0.6mm) ASA.gcode,job,completed,"Mar 13, 2024 10:00 AM",5705,9641,13324.81,SuperSlicer 2.4
+CCD-Latch_Handle-PIF_ASA.gcode,job,cancelled,"Mar 13, 2024 8:18 AM",6751,4592,7437.221,SuperSlicer 2.4
+CCDoor_v3-Ellis_PIF_Standard_24mm3.ini (0.6mm))-Ellis_PIF_Standard_24mm3.ini (ASA - KVP).gcode,job,completed,"Mar 12, 2024 3:05 PM",9273,10548,26305.954,SuperSlicer 2.4
+CCDoor_v3-Ellis_PIF_Standard_24mm3.ini (0.6mm))-Ellis_PIF_Standard_24mm3.ini (ASA - KVP).gcode,job,error,"Mar 12, 2024 2:57 PM",9273,0,0,SuperSlicer 2.4
+CCD_V2-Ellis_PIF_Standard_24mm3.ini (0.6mm))-Ellis_PIF_Standard_24mm3.ini (ASA - KVP).gcode,job,error,"Mar 12, 2024 2:49 PM",9273,0,0,SuperSlicer 2.4
+ClickyParts2-Ellis_PIF_Standard_24mm3.ini (0.6mm))-Ellis_PIF_Standard_24mm3.ini (ASA - KVP).gcode,job,error,"Mar 12, 2024 2:46 PM",9273,0,0,SuperSlicer 2.4
+Handle-Hinge_Bottom-Ellis_PIF_Standard_24mm3.ini (0.6mm))-Ellis_PIF_Standard_24mm3.ini (ASA - KVP).gcode,job,error,"Mar 12, 2024 2:38 PM",9273,0,0,SuperSlicer 2.4
+ClickyDoor-2-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,cancelled,"Mar 1, 2024 6:44 PM",7190,327,1053.05,SuperSlicer 2.4
+ClickyClacky1-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Mar 1, 2024 5:03 PM",2513,2677,6635.436,SuperSlicer 2.4
+TBST 3 Drawer Nesting Bin Single Divider-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Mar 1, 2024 11:12 AM",8434,8257,51054.465,SuperSlicer 2.4
+TBST 3 Drawer Nesting Bin Single Divider-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Mar 1, 2024 8:08 AM",8434,8414,51054.465,SuperSlicer 2.4
+TBST 3T Middle+Top Nesting Bin Single Divider-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Feb 29, 2024 8:09 PM",8408,8405,49511.091,SuperSlicer 2.4
+TBST 3T Middle+Top Nesting Bin Single Divider-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,error,"Feb 29, 2024 7:59 PM",8408,0,0,SuperSlicer 2.4
+TBST 3T Middle+Top Nesting Bin Single Divider-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,cancelled,"Feb 29, 2024 7:03 PM",8408,1104,7031.983,SuperSlicer 2.4
+TBST 3 Drawer Nesting Bin Single Divider-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Feb 29, 2024 12:45 PM",8434,8423,51054.465,SuperSlicer 2.4
+V9 Voron_Design_Cube_v7-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Feb 29, 2024 12:05 PM",1421,1410,4319.12,SuperSlicer 2.4
+V9 Voron_Design_Cube_v7-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,error,"Feb 29, 2024 11:58 AM",1421,0,0,SuperSlicer 2.4
+V9-1-First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Feb 29, 2024 11:29 AM",127,115,285.733,SuperSlicer 2.4
+V9 Voron_Design_Cube_v7-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,klippy_shutdown,"Feb 29, 2024 11:27 AM",1421,0,0,SuperSlicer 2.4
+V9-1-First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Feb 29, 2024 10:54 AM",127,116,280.733,SuperSlicer 2.4
+Multipe-First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Feb 29, 2024 10:04 AM",283,271,714.287,SuperSlicer 2.4
+Multipe-First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,error,"Feb 28, 2024 8:01 PM",283,0,0,SuperSlicer 2.4
+Multipe-First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Feb 28, 2024 6:19 PM",283,272,714.287,SuperSlicer 2.4
+First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Feb 28, 2024 4:29 PM",131,120,290.998,SuperSlicer 2.4
+First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,cancelled,"Feb 28, 2024 4:04 PM",131,39,77.113,SuperSlicer 2.4
+First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,completed,"Feb 28, 2024 3:41 PM",131,119,290.998,SuperSlicer 2.4
+V2 Voron_Design_Cube_v7-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,klippy_shutdown,"Feb 28, 2024 3:34 PM",1421,0,0,SuperSlicer 2.4
+V1 - Voron_Design_Cube_v7-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,error,"Feb 28, 2024 3:29 PM",1421,0,0,SuperSlicer 2.4
+V6 First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,error,"Feb 28, 2024 2:30 PM",131,0,0,SuperSlicer 2.4
+V4 First_Layer_Patch-0.24mm-Ellis_Decorative_Standard_24mm3.ini - 20240228_V1-Ellis_Decorative_Standard_24mm3.ini (ABS - KVP) V1.gcode,job,error,"Feb 28, 2024 2:20 PM",131,0,0,SuperSlicer 2.4
+TBST 3 Drawer Nesting Bin Double Divider-PLA.gcode,job,cancelled,"Feb 27, 2024 5:52 PM",38614,10588,34154.578,SuperSlicer 2.4
+TBST Nesting Bins - ABS.gcode,job,completed,"Feb 27, 2024 12:56 PM",12625,10440,65388.504,SuperSlicer 2.4
+TBST 3T Top Nesting Bin Single Divider-ABS.gcode,job,completed,"Feb 27, 2024 9:52 AM",4441,3807,25314.626,SuperSlicer 2.4
+TBST 3T Top Nesting Bin Single Divider-PETG.gcode,job,completed,"Feb 26, 2024 6:55 PM",5718,4880,25504.836,SuperSlicer 2.4
+TBST 3T Middle Nesting Bin Single Divider-PETG.gcode,job,completed,"Feb 26, 2024 4:40 PM",5668,5090,25127.404,SuperSlicer 2.4
+TBST 3T Middle Nesting Bin Single Divider-PETG.gcode,job,error,"Feb 26, 2024 4:30 PM",5668,0,0,SuperSlicer 2.4
+TBST Half Bin 50mm 2 Divider-PETG.gcode,job,completed,"Feb 26, 2024 2:13 PM",6257,6436,20972.042,SuperSlicer 2.4
+TBST Half Bin 50mm 2 Divider-PETG.gcode,job,klippy_shutdown,"Feb 26, 2024 1:47 PM",6257,0,0,SuperSlicer 2.4
+TBST Half Bin 50mm 2 Divider-PETG.gcode,job,error,"Feb 26, 2024 12:48 PM",6257,0,0,SuperSlicer 2.4
+Dell WD15 Dock Mount - Fixed.gcode,job,completed,"Nov 17, 2023 12:04 PM",1654,1625,5625.795,SuperSlicer 2.4
+dell wd15 dock and usb holder.gcode,job,completed,"Nov 17, 2023 8:49 AM",4021,3944,10487.162,SuperSlicer 2.4
+deskpro_powerbrick_mount.gcode,job,completed,"Nov 16, 2023 5:32 PM",2306,2263,5532.923,SuperSlicer 2.4
+CiscoSwitch_PowerBracketv2 and dell powerbirckmount.gcode,job,completed,"Nov 16, 2023 3:31 PM",5802,5758,13687.191,SuperSlicer 2.4
+CiscoSwitch_PowerBracket.gcode,job,completed,"Nov 16, 2023 8:37 AM",1957,2098,4600.831,SuperSlicer 2.4
+desk rackmount brackets-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4_PLA+_HFBoxes.gcode,job,completed,"Nov 15, 2023 2:15 PM",6173,6076,12552.081,SuperSlicer 2.4
+underdesk D6000 mount-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4_PLA+_HFBoxes.gcode,job,completed,"Nov 15, 2023 10:24 AM",7513,8076,13374.417,SuperSlicer 2.4
+StackTech_BitBoxTestV1.gcode,job,completed,"Oct 27, 2023 12:57 PM",6794,6763,17174.045,SuperSlicer 2.4
+HF_boxes-manyboxes-v2.gcode,job,completed,"Oct 23, 2023 11:34 AM",35433,35107,100864.957,SuperSlicer 2.4
+HF_boxes-manyboxes-v2.gcode,job,error,"Oct 23, 2023 10:58 AM",35433,25,66.941,SuperSlicer 2.4
+HF_boxes-manyboxes-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4_PLA+_HFBoxes.gcode,job,completed,"Oct 22, 2023 8:17 PM",38049,40877,106424.297,SuperSlicer 2.4
+fossil_fish-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4_PLA+_HFBoxes.gcode,job,completed,"Oct 22, 2023 7:05 PM",2307,2354,3394.223,SuperSlicer 2.4
+fossil_fish-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4_PLA+_HFBoxes.gcode,job,completed,"Oct 22, 2023 5:59 PM",2456,2487,3629.547,SuperSlicer 2.4
+HF_box-with-divider_v1_x8-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4_PLA+_HFBoxes.gcode,job,completed,"Oct 21, 2023 11:03 AM",20467,20379,57747.672,SuperSlicer 2.4
+HF_box-1x4.gcode,job,completed,"Oct 21, 2023 8:58 AM",6427,6400,19846.301,SuperSlicer 2.4
+kitchen_silverwaredrawer_front2.gcode,job,completed,"Oct 20, 2023 9:38 PM",8390,7788,28912.874,SuperSlicer 2.4
+kitchen_silverwaredrawer_front1.gcode,job,completed,"Oct 20, 2023 7:02 PM",8092,7113,28007.367,SuperSlicer 2.4
+kitchen_silverwaredrawer_rightfront.gcode,job,completed,"Oct 20, 2023 2:54 PM",6338,5650,21704.019,SuperSlicer 2.4
+kitchen_silverwaredrawer_rightback.gcode,job,completed,"Oct 20, 2023 12:21 PM",8159,7422,28211.258,SuperSlicer 2.4
+kitchen_silverwaredrawer_back_v2.gcode,job,completed,"Oct 20, 2023 9:25 AM",9545,9169,34404.117,SuperSlicer 2.4
+kitchen_silverwaredrawer_back.gcode,job,error,"Oct 20, 2023 9:11 AM",9570,7,45.202,SuperSlicer 2.4
+HF_box-with-divider_v1.gcode,job,completed,"Oct 19, 2023 8:18 PM",2584,2673,7257.769,SuperSlicer 2.4
+trimlayout-1-4and1-8v2-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4-PETG.gcode,job,completed,"Oct 17, 2023 6:24 PM",9607,12803,50356.757,SuperSlicer 2.4
+RodClamp_v1.3_PETG-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4-PETG.gcode,job,completed,"Oct 17, 2023 2:13 PM",3937,4936,13063.349,SuperSlicer 2.4
+trimlayout-3-8and1-2-PETG.gcode,job,completed,"Oct 17, 2023 10:05 AM",8669,13356,45255.806,SuperSlicer 2.4
+fillamnet holder Wall mounts.gcode,job,completed,"Oct 16, 2023 12:33 PM",11624,17646,48113.028,SuperSlicer 2.4
+fillamnet holder Wall mounts.gcode,job,completed,"Oct 12, 2023 8:39 AM",11624,21447,48113.028,SuperSlicer 2.4
+RepRackHangerPrintable_v1-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4-PETG.gcode,job,completed,"Oct 11, 2023 7:58 PM",14956,32824,67609.671,SuperSlicer 2.4
+RepRackHangerPrintable_v1-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4-PETG.gcode,job,completed,"Oct 11, 2023 12:59 PM",6463,17394,32461.828,SuperSlicer 2.4
+RepRackHangerPrintable_v1-test printer profile.ini (Ellis - Voron (0.6mm))-Voron2.4-PETG.gcode,job,klippy_shutdown,"Oct 11, 2023 12:34 PM",6463,737,938.366,SuperSlicer 2.4
+trimlayout-14and18.gcode,job,completed,"Sep 26, 2023 1:58 PM",4923,4194,19801.422,SuperSlicer 2.4
+trimlayout-14and18.gcode,job,klippy_shutdown,"Sep 26, 2023 1:52 PM",4923,0,0,SuperSlicer 2.4
+benchy_silkPLA-test printer profile.ini (Ellis - Voron (0.6mm))-test printer profile.ini (PLA).gcode,job,completed,"Jul 31, 2023 8:33 AM",1958,1942,4222.252,SuperSlicer 2.4
+dice_tower-test printer profile.ini (Ellis - Voron (0.6mm))-test printer profile.ini (PLA).gcode,job,completed,"Jul 29, 2023 8:36 PM",11507,11506,34000.397,SuperSlicer 2.4
+casette_PLA_06nozzle.gcode,job,completed,"Jul 29, 2023 7:31 PM",1224,1467,2249.742,SuperSlicer 2.4
+first_layer_test-test printer profile.ini (Ellis - Voron (0.6mm))-test printer profile.ini (PLA).gcode,job,completed,"Jul 29, 2023 7:15 PM",124,112,467.278,SuperSlicer 2.4
+first_layer_test-test printer profile.ini (Ellis - Voron (0.6mm))-test printer profile.ini (PLA).gcode,job,klippy_shutdown,"Jul 29, 2023 7:09 PM",124,0,0,SuperSlicer 2.4
+needle holder and first usb body tets.gcode,job,completed,"Jul 27, 2023 3:10 PM",6291,4750,10786.952,SuperSlicer 2.4
+green tray and pliers.gcode,job,completed,"Jul 27, 2023 10:01 AM",13281,10864,21266.355,SuperSlicer 2.4
+green tray and pliers.gcode,job,klippy_shutdown,"Jul 27, 2023 9:56 AM",13281,0,0,SuperSlicer 2.4
+card and flashlight.gcode,job,completed,"Jul 26, 2023 4:45 PM",3691,3139,8335.286,SuperSlicer 2.4
+bucket shelf.gcode,job,completed,"Jul 26, 2023 3:13 PM",5481,4638,14351.581,SuperSlicer 2.4
+hsw segmented bin and inserts.gcode,job,completed,"Jul 26, 2023 12:00 PM",11517,9549,26314.433,SuperSlicer 2.4
+tray and cards.gcode,job,completed,"Jul 26, 2023 9:33 AM",8825,7434,21010.991,SuperSlicer 2.4
+wera hex holder and tweasers.gcode,job,completed,"Jul 25, 2023 4:47 PM",10327,8472,22897.562,SuperSlicer 2.4
+hsw_caliper_holder.gcode,job,completed,"Jul 25, 2023 2:34 PM",7158,5851,10018.987,SuperSlicer 2.4
+HSW doc and sunglasses holders.gcode,job,completed,"Jul 25, 2023 1:09 PM",4286,3403,9654.328,SuperSlicer 2.4
+HSW scissor holder.gcode,job,completed,"Jul 25, 2023 11:22 AM",1923,1549,3651.243,SuperSlicer 2.4
+usb holder and m5 adapters.gcode,job,completed,"Jul 25, 2023 8:09 AM",10194,8670,24357.368,SuperSlicer 2.4
+stapler and sd cards.gcode,job,completed,"Jul 24, 2023 8:33 PM",5516,4483,12906.63,SuperSlicer 2.4
+checkbook.gcode,job,completed,"Jul 24, 2023 5:09 PM",2667,2373,5180.192,SuperSlicer 2.4
+HSW nexus_coaster_box.gcode,job,completed,"Jul 24, 2023 3:58 PM",4072,3203,9352.388,SuperSlicer 2.4
+HSW Wall Mounts_thirdset.gcode,job,completed,"Jul 24, 2023 2:06 PM",1747,1323,2792.788,SuperSlicer 2.4
+HSW Wall Mounts_secondset.gcode,job,completed,"Jul 24, 2023 10:21 AM",11238,8373,17819.03,SuperSlicer 2.4
+honeycomb_large_upper-left.gcode,job,completed,"Jul 23, 2023 7:17 PM",20396,16840,46155.771,SuperSlicer 2.4
+honeycomb_large_lower-left.gcode,job,completed,"Jul 23, 2023 9:24 AM",20396,15946,46053.745,SuperSlicer 2.4
+honeycomb_large_upper-center.gcode,job,completed,"Jul 22, 2023 3:12 PM",19177,14277,43528.112,SuperSlicer 2.4
+honeycomb_large_upper-right.gcode,job,completed,"Jul 22, 2023 9:24 AM",20403,16163,46206.396,SuperSlicer 2.4
+custom-honeycomb-wall-v2-UPPERLEFT-ITHINK.gcode,job,completed,"Jul 21, 2023 4:13 PM",31601,19666,49710.087,SuperSlicer 2.4
+honeycomb_large_CenterBottom.gcode,job,completed,"Jul 21, 2023 8:58 AM",28507,18604,44888.963,SuperSlicer 2.4
+honeycomb_large_CenterBottom.gcode,job,cancelled,"Jul 21, 2023 8:16 AM",28507,1850,3464.981,SuperSlicer 2.4
+nozzle scrubber.gcode,job,completed,"Jul 20, 2023 4:42 PM",4330,3282,8273.386,SuperSlicer 2.4
+BTT Fillament Sensor Mount.gcode,job,cancelled,"Jul 20, 2023 4:24 PM",2883,163,260.809,SuperSlicer 2.4
+BTT Fillament Sensor Mount.gcode,job,klippy_disconnect,"Jul 20, 2023 4:01 PM",2883,275,663.217,SuperSlicer 2.4
+BTT Fillament Sensor Mount.gcode,job,klippy_shutdown,"Jul 20, 2023 1:44 PM",2883,533,1108.212,SuperSlicer 2.4
+BTT Fillament Sensor Mount.gcode,job,klippy_shutdown,"Jul 20, 2023 1:29 PM",2883,0,0,SuperSlicer 2.4
+BTT Fillament Sensor Mount.gcode,job,completed,"Jul 20, 2023 9:35 AM",2883,2156,3305.074,SuperSlicer 2.4
+honeycomb_large_CenterBottom.gcode,job,completed,"Jul 19, 2023 6:42 PM",28507,22740,44888.761,SuperSlicer 2.4
+HSW Wall Mounts.gcode,job,completed,"Jul 19, 2023 3:04 PM",10107,8041,8972.176,SuperSlicer 2.4
+misc_things.gcode,job,completed,"Jul 19, 2023 9:43 AM",8490,7061,11948.225,SuperSlicer 2.4
+honeycomb_large_FirstCorner.gcode,job,completed,"Jul 17, 2023 6:37 PM",30015,22635,47729.015,SuperSlicer 2.4
+honeycomb_test.gcode,job,completed,"Jul 17, 2023 2:58 PM",4407,2994,7470.687,SuperSlicer 2.4
+front_skirts-ab-300.gcode,job,completed,"Jul 17, 2023 9:51 AM",16932,11733,21386.718,SuperSlicer 2.4
+front_skirts-ab-300.gcode,job,cancelled,"Jul 17, 2023 9:35 AM",16932,0,0,SuperSlicer 2.4
+screen cover-hinge-beltcovers.gcode,job,completed,"Jul 16, 2023 8:35 PM",9187,6844,12722.553,SuperSlicer 2.4
+screen front and back.gcode,job,completed,"Jul 16, 2023 5:27 PM",10681,6886,15477.851,SuperSlicer 2.4
+nevermore cartridge.gcode,job,completed,"Jul 16, 2023 10:45 AM",17630,15070,19281.234,SuperSlicer 2.4
+nevermore_plenum_lid.gcode,job,completed,"Jul 15, 2023 7:32 PM",3208,2953,4546.777,SuperSlicer 2.4
+nevermore_plenum_lid.gcode,job,klippy_shutdown,"Jul 15, 2023 7:21 PM",3208,94,174.672,SuperSlicer 2.4
+nevermore_plenum.gcode,job,completed,"Jul 15, 2023 2:03 PM",13385,9234,14258.302,SuperSlicer 2.4
+half size cassette.gcode,job,completed,"Jul 14, 2023 3:15 PM",3158,2298,2276.266,SuperSlicer 2.4
+benchy_v001.gcode,job,completed,"Jul 14, 2023 10:50 AM",5656,4474,4118.281,SuperSlicer 2.5.59
+half_cassette-v01.gcode,job,klippy_shutdown,"Jul 14, 2023 10:44 AM",3143,0,0,SuperSlicer 2.5.59
+fan grill b and door latch-hinge parts.gcode,job,completed,"Jul 13, 2023 1:55 PM",6434,6683,11576.764,SuperSlicer 2.5.59
+door_hinges.gcode,job,completed,"Jul 13, 2023 9:37 AM",6623,6256,11267.919,SuperSlicer 2.5.59
+mid panel 6mm and exhaust grill.gcode,job,completed,"Jul 12, 2023 6:46 PM",6635,5931,11586.273,SuperSlicer 2.5.59
+side skirts and back exhaust cover.gcode,job,completed,"Jul 12, 2023 10:42 AM",28309,24074,51111.322,SuperSlicer 2.5.59
+6mm panel clips.gcode,job,completed,"Jul 12, 2023 7:31 AM",10944,10170,13155.313,SuperSlicer 2.5.59
+mid panel 4mm x7.gcode,job,completed,"Jul 11, 2023 6:50 PM",4496,4242,5363.784,SuperSlicer 2.5.59
+skirts_fanSupportsAndRetainers.gcode,job,completed,"Jul 11, 2023 2:55 PM",15677,13108,25757.348,SuperSlicer 2.5.59
+skirts_fanGrillsA.gcode,job,completed,"Jul 11, 2023 1:41 PM",2937,2453,4154.521,SuperSlicer 2.5.59
+corner_panel_clip_4mm_x8.gcode,job,completed,"Jul 11, 2023 11:04 AM",8666,8224,9308.323,SuperSlicer 2.5.59
+Voron_Design_Cube_v7_PLA.gcode,job,completed,"Jul 11, 2023 9:27 AM",4545,3876,5407.778,SuperSlicer 2.5.59
+Voron_Design_Cube_v7.gcode,job,klippy_shutdown,"Jul 10, 2023 12:10 PM",4160,387,625.495,SuperSlicer 2.5.59
+Voron_Design_Cube_v7.gcode,job,klippy_shutdown,"Jul 10, 2023 12:09 PM",4160,0,0,SuperSlicer 2.5.59
+First_Layer_Patch-0.24mm.gcode,job,completed,"Jul 10, 2023 9:45 AM",253,240,450.741,SuperSlicer 2.5.59
+First_Layer_Patch-0.24mm.gcode,job,completed,"Jul 9, 2023 6:55 PM",255,235,435.741,SuperSlicer 2.5.59
+V300_Voron_Design_Cube_v7.gcode,job,cancelled,"Jul 9, 2023 11:15 AM",5638,0,0,Cura 5.3.1
